@@ -5,11 +5,10 @@
 
 - 🌱 I’m currently learning **TypeScript, .NET, C#, Node JS, Express JS, React Native**
 
-- 👨‍💻 All of my projects are available at [https://nikolozi2004.github.io/portfolio/](https://nikolozi2004.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://nikolozi2004.github.io/Personal-Portfolio/](https://nikolozi2004.github.io/Personal-Portfolio/)
 
 - 📫 How to reach me **nikolozmeskhi12@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
