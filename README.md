@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikolozi,</h1>
-<h3 align="center">A passionate web developer from Georgia</h3>
+<h3 align="center">A web developer from Georgia</h3>
 
 - 🔭 I’m currently working on **FullStack E-commerce**
 
